@@ -1,7 +1,10 @@
-# ArtistGigs
-Social network for music lovers.
+# RentalSystem
 
 * Bootstrap
 * CSS
-* Restful API
-* C# .Net
+* RESTful services using ASP.NET Web API
+* ASP.NET MVC
+* CRUD operations
+* Entity Framework
+* ASP.NET Identity
+* Jquery
